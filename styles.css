@@ -20,5 +20,6 @@ html {
 .sphinx {
   font-family: 'Rubik Mono One', sans-serif;
   font-size: 3rem;
+  line-height: 1.2;
   color:#332C34;
 }
