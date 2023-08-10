@@ -18,7 +18,7 @@ html {
 }
 
 .splashText {
-  font-family: 'Rubik Mono One', sans-serif;
+  font-family: 'VT323', monospace;
   font-size: 3rem;
   line-height: 1.2;
   color:#332C34;
@@ -34,7 +34,7 @@ html {
 }
 
 .introTextHeading {
-  font-family: 'Rubik Mono One', sans-serif;
+  font-family: 'VT323', monospace;
   line-height: 1.2;
   color: #9399BB;
 }
